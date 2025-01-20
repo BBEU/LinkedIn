@@ -5,8 +5,8 @@
 // @description  Automatically like a specific LinkedIn post
 // @author       Brecht
 // @match        https://www.linkedin.com/feed/update/urn:li:activity:7287049392748941312
-// @updateURL    https://raw.githubusercontent.com/BBEU/tampermonkey-scripts/main/auto-like-linkedin.js
-// @downloadURL  https://raw.githubusercontent.com/BBEU/tampermonkey-scripts/main/auto-like-linkedin.js
+// @updateURL    https://raw.githubusercontent.com/BBEU/tampermonkey-scripts/main/auto-like-linkedin.user.js
+// @downloadURL  https://raw.githubusercontent.com/BBEU/tampermonkey-scripts/main/auto-like-linkedin.user.js
 // @grant        none
 // ==/UserScript==
 
