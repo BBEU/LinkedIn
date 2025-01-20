@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Auto Like LinkedIn Post
-// @namespace    https://github.com/BBEU
+// @namespace    http://tampermonkey.net/
 // @version      1.1
 // @description  Automatically like a specific LinkedIn post
 // @author       Brecht
